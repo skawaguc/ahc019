@@ -5,7 +5,8 @@ AHC019の求解プログラム
 ## フォルダ構成
 
 - [src](src) - ソースコード
-  - [python](python) - ソースコード（python）
+  - [python](src/python) - ソースコード（python）
+    - [main.py](src/python/main.py) - メイン処理
 
 ## 参考
 
