@@ -7,6 +7,7 @@ AHC019の求解プログラム
 - [src](src) - ソースコード
   - [cpp](src/cpp) - ソースコード（cpp）
     - [main.cpp](src/cpp/main.cpp) - メイン処理
+    - [submit.cpp](src/cpp/submit.cpp) - 提出用ファイル
   - [python](src/python) - ソースコード（python）
     - [main.py](src/python/main.py) - メイン処理
 
